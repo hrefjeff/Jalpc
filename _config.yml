@@ -52,7 +52,7 @@ donation: on  # type 'on'/'off' to choice display donation button at post page o
 
 ## carousels
 index_carousel: on  # index page carousel switch
-blog_carousel: off  # blog page carousel switch
+blog_carousel: on  # blog page carousel switch
 
 # scss
 sass:
