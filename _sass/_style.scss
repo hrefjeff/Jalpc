@@ -1,3 +1,7 @@
+.carousel-control, .carousel-indicators {
+  display: !important none;
+}
+
 .landing-page .carousel-caption {
   h1, p {
     text-transform: uppercase;
