@@ -28,13 +28,13 @@ author: Jeffrey Allen # change following line to your infomation.
   desc: Born in Nuremberg, Germany. Grew up in Orlando, Florida. Earned undergrad in Florence, Alabama (Major: CompSci, Minor: Math). Working in Huntsville, Alabama as a software engineer. Attending grad school at the University of Alabama in Huntsville.  # Describe yourself.
 
 # comment
-#disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
 #  name: jalpc
 
 # analytics
 ## google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  id: UA-93473370-3
+#  id: UA-93473370-3
 
 ## google optimize
 go:
