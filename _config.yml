@@ -1,23 +1,23 @@
 # Website settings
 title: Jeffrey Allen
-description: A small Jeffrey Allen insight
+description: A small insight to Jeffrey Allen
 keywords: Jeffrey,AboutMe,Jekyll,github,gh-pages
 baseurl:  /homepage # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://hrefjef.github.io/homepage  # url should be 'http://<github_username>.github.io/homepage' as before
 img_path: /homepage/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
-  first_name: Hub  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
+author: Jeffrey Allen # change following line to your infomation.
+  name: Jeffrey Allen  # Be used at blog posts' author.
+  first_name: Jeffrey  # Be used at index page about me section.
+  last_name: Allen  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: jarrekk  # Leave blank if you don't have now
+  github_username: hrefjeff  # Leave blank if you don't have now
   linkedin_id: jarrekk # Leave blank if you don't have now
-  facebook_username: jiakunnj  # Leave blank if you don't have now
-  twitter_username: jiakun614  # Leave blank if you don't have now
-  email: me@jarrekk.com  # Leave blank if you don't have now
-  cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  # facebook_username: jiakunnj  # Leave blank if you don't have now
+  # twitter_username: jiakun614  # Leave blank if you don't have now
+  email: jeffwayne256@gmail.com  # Leave blank if you don't have now
+  # cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
@@ -25,11 +25,11 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: Born in N&uuml;rnberg, Germany. Grew up in Orlando, Florida. Earned undergrad in Florence, Alabama (Major: CompSci, Minor: Math). Working in Huntsville, Alabama as a software engineer. Attending grad school at the University of Alabama in Huntsville.  # Describe yourself.
 
 # comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+#disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+#  name: jalpc
 
 # analytics
 ## google analytics
@@ -45,11 +45,11 @@ gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your 
   # id:
 
 ## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
 index_carousel: on  # index page carousel switch
-blog_carousel: on  # blog page carousel switch
+blog_carousel: off  # blog page carousel switch
 
 # scss
 sass:
