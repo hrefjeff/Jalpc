@@ -13,7 +13,7 @@ author: Jeffrey Allen # change following line to your infomation.
   last_name: Allen  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: hrefjeff  # Leave blank if you don't have now
-  linkedin_id: jarrekk # Leave blank if you don't have now
+  linkedin_id: jallen92 # Leave blank if you don't have now
   # facebook_username: jiakunnj  # Leave blank if you don't have now
   # twitter_username: jiakun614  # Leave blank if you don't have now
   email: jeffwayne256@gmail.com  # Leave blank if you don't have now
@@ -25,7 +25,7 @@ author: Jeffrey Allen # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Born in N&uuml;rnberg, Germany. Grew up in Orlando, Florida. Earned undergrad in Florence, Alabama (Major: CompSci, Minor: Math). Working in Huntsville, Alabama as a software engineer. Attending grad school at the University of Alabama in Huntsville.  # Describe yourself.
+  desc: Born in Nuremberg, Germany. Grew up in Orlando, Florida. Earned undergrad in Florence, Alabama (Major: CompSci, Minor: Math). Working in Huntsville, Alabama as a software engineer. Attending grad school at the University of Alabama in Huntsville.  # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
