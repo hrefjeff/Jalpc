@@ -4,7 +4,7 @@
     detail: Northrop Grumman
     i18n: company_a
   desc:
-    detail: I build software using agile techniques to deliver quality working products
+    detail: I mainly work on simuations right now. I design systems, develop code, debug existing problems, and create tests into both new and operational projects
     i18n: company_a_desc
   date:
     detail: April 2019
@@ -19,7 +19,7 @@
     detail: Nobletech Solutions Inc.
     i18n: company_b
   desc: 
-    detail: Leverage Microsoft's Azure cloud platform to architect web applications. Design embedded systems that transmit data over GSM and process results using Microsoft Azure.
+    detail: Leverage Microsoft's Azure cloud platform to architect web applications. Design embedded systems that transmit data over GSM and process results using Microsoft Azure
     i18n: company_b_desc
   date:
     detail: January 2018
@@ -75,7 +75,7 @@
     detail: University of Houston
     i18n: company_f
   desc: 
-    detail: Work in a lab environment funded by the National Science Foundation. Studied the effects of Yerkes–Dodson law on students exposed to stressful situations.
+    detail: Work in a lab environment funded by the National Science Foundation. Study the effects of Yerkes–Dodson law on students exposed to stressful situations
     i18n: company_f_desc
   date:
     detail: May 2013
