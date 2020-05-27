@@ -18,8 +18,8 @@
 - name:
     detail: Nobletech Solutions Inc.
     i18n: company_b
-  desc: I architect web application infrastructures on Microsoft's Azure cloud platform
-    detail: 
+  desc: 
+    detail: I leverage Microsoft's Azure cloud platform to architect web applications
     i18n: company_b_desc
   date:
     detail: January 2018
@@ -32,8 +32,8 @@
 - name:
     detail: Canvas Inc./Lojix
     i18n: company_c
-  desc: I create web applications using a LAMAP stack and teach interns how to build web applications using a LAMP stack
-    detail: 
+  desc: 
+    detail: I create web applications on Google Clould Platform and teach interns how to build software using a LAMP stack
     i18n: company_c_desc
   date:
     detail: October 2016
