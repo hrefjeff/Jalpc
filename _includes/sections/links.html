@@ -5,22 +5,8 @@
             <h1><span data-i18n="link.link">Contact Me</span></h1>
         </div>
     </div>
-    <div class="row">
-        
-        <form id="my-form"
-          action="https://formspree.io/mbjzgybj"
-          method="POST"
-        >
-          <label>Email:</label>
-          <input type="email" name="email" />
-          <label>Message:</label>
-          <input type="text" name="message" />
-          <button id="my-form-button">Submit</button>
-          <p id="my-form-status"></p>
-        </form>
-
-        
-<!--     {% for link in site.data.index.links %}
+<!--     <div class="row">     
+    {% for link in site.data.index.links %}
         {% assign loopindex = forloop.index | modulo: 3 %}
         {% if forloop.last %}
             {% if forloop.last == forloop.first %}
@@ -42,8 +28,8 @@
             </ul>
         </div>
         </div>
-    {% endfor %} -->
-    </div>
+    {% endfor %}
+    </div> -->
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
             <p id="jalpc_site_pv"><strong>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}</strong></p>
