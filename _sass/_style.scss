@@ -1,3 +1,7 @@
+body{
+  min-width: 410px !important;
+}
+
 .carousel-control, .carousel-indicators {
   display: none !important;
 }
@@ -2510,9 +2514,11 @@ body {
   }
   .header-back {
     height: 470px;
-    background-size: auto;
-    background-position: 50% 0;
-    background-repeat:  no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center center;
   }
   .carousel {
     height: 470px;
