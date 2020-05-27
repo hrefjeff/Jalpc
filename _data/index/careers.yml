@@ -4,7 +4,7 @@
     detail: Northrop Grumman
     i18n: company_a
   desc:
-    detail: I build software using agile techniques to deliver working products to people who need it
+    detail: I build software using agile techniques to deliver quality working products
     i18n: company_a_desc
   date:
     detail: April 2019
@@ -19,7 +19,7 @@
     detail: Nobletech Solutions Inc.
     i18n: company_b
   desc: 
-    detail: I leverage Microsoft's Azure cloud platform to architect web applications
+    detail: Leverage Microsoft's Azure cloud platform to architect web applications. Design embedded systems that transmit data over GSM and process results using Microsoft Azure.
     i18n: company_b_desc
   date:
     detail: January 2018
@@ -33,7 +33,7 @@
     detail: Canvas Inc./Lojix
     i18n: company_c
   desc: 
-    detail: I create web applications on Google Clould Platform and teach interns how to build software using a LAMP stack
+    detail: Create web applications on Google Clould Platform and teach interns how to build software using a LAMP stack
     i18n: company_c_desc
   date:
     detail: October 2016
@@ -41,4 +41,46 @@
   job:
     detail: Software Engineer
     i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: Simon Solutions
+    i18n: company_d
+  desc: 
+    detail: Create web applications using the Django framework built on Amazon Web Services to deliver products to nonprofit organizations
+    i18n: company_d_desc
+  date:
+    detail: August 2014
+    i18n: company_d_date
+  job:
+    detail: Web Developer
+    i18n: company_d_job
+  icon: fa-plus-square
+
+- name:
+    detail: University of North Alabama
+    i18n: company_e
+  desc: 
+    detail: Teach calculus and trigonometry to students
+    i18n: company_e_desc
+  date:
+    detail: August 2013
+    i18n: company_e_date
+  job:
+    detail: Math Tutor
+    i18n: company_e_job
+  icon: fa-plus-square
+
+- name:
+    detail: University of Houston
+    i18n: company_f
+  desc: 
+    detail: Work in a lab environment funded by the National Science Foundation. Studied the effects of Yerkes–Dodson law on students exposed to stressful situations.
+    i18n: company_f_desc
+  date:
+    detail: May 2013
+    i18n: company_f_date
+  job:
+    detail: Research Assistant
+    i18n: company_f_job
   icon: fa-plus-square
