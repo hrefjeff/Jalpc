@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Northrop Grumman
+    detail: Northrop Grumman Corporation
     i18n: company_a
   desc:
     detail: I mainly work on simuations right now. I design, implement, debug, and maintain software on a day-to-day basis
