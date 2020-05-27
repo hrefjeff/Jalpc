@@ -4,7 +4,7 @@
     detail: Northrop Grumman
     i18n: company_a
   desc:
-    detail: I mainly work on simuations right now. I design systems, develop code, debug existing problems, and create tests into both new and operational projects
+    detail: I mainly work on simuations right now. I design, implement, debug, and maintain software on a day-to-day basis
     i18n: company_a_desc
   date:
     detail: April 2019
