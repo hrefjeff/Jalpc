@@ -4,6 +4,21 @@
     detail: Northrop Grumman Corporation
     i18n: company_a
   desc:
+    detail: Recent promotion within NGC. I now administer, improve, and maintain build tools, applications, libraries, and machines/containers
+    i18n: company_a_desc
+  date:
+    detail: May 2022
+    i18n: company_a_date
+  job:
+    detail: Principal Software Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Northrop Grumman Corporation
+    i18n: company_a
+  desc:
     detail: I mainly work on simuations right now. I design, implement, debug, and maintain software on a day-to-day basis
     i18n: company_a_desc
   date:
@@ -13,7 +28,6 @@
     detail: Software Engineer
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
 
 - name:
     detail: Nobletech Solutions Inc.
