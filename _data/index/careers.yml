@@ -4,13 +4,13 @@
     detail: Northrop Grumman Corporation
     i18n: company_a
   desc:
-    detail: Recent promotion within NGC. I now administer, improve, and maintain build tools, applications, libraries, and machines/containers
+    detail: I received a promotion where I now administer/improve/maintain build tools, applications, libraries, and machines/containers within a CI/CD pipeline
     i18n: company_a_desc
   date:
     detail: May 2022
     i18n: company_a_date
   job:
-    detail: Principal Software Engineer
+    detail: Principal Software Engineer (DevOps)
     i18n: company_a_job
   icon: fa-plus-square
   present: true
